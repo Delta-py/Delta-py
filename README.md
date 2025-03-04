@@ -1,4 +1,4 @@
-Hi, I’m Delta-py
+Hi, I’m Delta.py
 
 
 <!---
